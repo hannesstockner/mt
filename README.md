@@ -75,7 +75,7 @@ POST /accounts/{id}/transfers
 Body:
 ``` json
 {
-  "to": "abc-def"
+  "to": "abc-def",
   "amount": 50000
 }
 ```
